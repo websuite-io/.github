@@ -8,7 +8,7 @@ Der Code ist offen und heisst **Modulstack Workspace**: ein Kern und Module, die
 installieren, abschalten und einzeln aktualisieren lassen. Darunter läuft
 [Libre Workspace](https://codeberg.org/Libre_Workspace/libre-workspace), unverändert.
 
-> **Entwickelt wird auf Forgejo:** [forgejo.bit-tag.com/OpenMoto](https://forgejo.bit-tag.com/OpenMoto)
+> **Entwickelt wird auf Forgejo:** [forgejo.bit-tag.com/websuite-io](https://forgejo.bit-tag.com/websuite-io)
 > — dort liegen Code, Issues und Beiträge. GitHub ist nur das Schaufenster.
 >
 > **Status:** Veröffentlichung in Vorbereitung. Die Repositories werden öffentlich, sobald
